@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Linnovel
 - 👀 I’m interested in Programing
 - 🌱 I’m currently learning Programing FullStack at @4geeksAcademy
-- 💞️ I’m looking to collaborate on nothing yet
+- 💞️ I’m looking to collaborate on things that I could learn a lot
 - 📫 How to reach me Follow me on Twitter 
 
 <!---
