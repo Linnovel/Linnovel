@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Linnovel
-- 👀 I’m interested in Programing and learning a lot
-- 🌱 I’m currently learning Programing FullStack at @4geeksAcademy
-- 📫 How to reach me Follow me on Twitter https://twitter.com/Linnovel_Dev
+- 👀 I’m interested in Programing and learning, working with others, and learning something new every day. 
+- 🌱 I’m currently studying Programing FullStack at @4geeksAcademy
+- 📫  [Follow me on Twitter] (https://twitter.com/Linnovel_Dev) 
+  
 
-                                                      Currently this is me 
+                                                      Currently, this is me 
 
 
 
