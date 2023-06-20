@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Linnovel
-- 👀 I’m interested in Programing and learning, working with others, and learning something new every day. 
-- 🌱 I’m currently studying Programing FullStack at @4geeksAcademy
-- 📫  [Follow me on Twitter] (https://twitter.com/Linnovel_Dev) 
+- 👋Hi. I'm Luis Linares a passionate developer and former student from 4GeeksAcademy. I want to collaborate with anybody who is willing to keep learning and working hard every day to be the person of the future we wish we became.
+- 📫  [Follow me on Twitter] (https://twitter.com/Linnovel_Dev)
+- 📫 Email: luislinnovel@gmail.com
   
 
                                                       Currently, this is me 
