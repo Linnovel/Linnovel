@@ -1,5 +1,5 @@
    ![213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c (1)](https://github.com/Linnovel/Linnovel/assets/117125597/118a68f3-d70a-4725-9258-33f2343f7167)
-- 👋Hi. I'm Luis Linares a passionate developer and former student from @4GeeksAcademy. I want to collaborate with anybody who is willing to keep learning and working hard every day to be the person of the future we wish we became.
+- 👋Hi. I'm Luis Linares a passionate developer and former student from @4GeeksAcademy. I want to collaborate with anybody who is willing to keep learning and working hard to be the best.
 - 📫  [Follow me on Twitter] (https://twitter.com/Linnovel_Dev)
 - 📫 Email: luislinnovel@gmail.com
 - 📫 https://www.linkedin.com/in/luis-linares-77853b227/
