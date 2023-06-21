@@ -2,6 +2,7 @@
 - 👋Hi. I'm Luis Linares a passionate developer and former student from @4GeeksAcademy. I want to collaborate with anybody who is willing to keep learning and working hard every day to be the person of the future we wish we became.
 - 📫  [Follow me on Twitter] (https://twitter.com/Linnovel_Dev)
 - 📫 Email: luislinnovel@gmail.com
+- 📫 https://www.linkedin.com/in/luis-linares-77853b227/
 
   languages and tools:
   
