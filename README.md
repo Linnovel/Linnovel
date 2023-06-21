@@ -1,19 +1,33 @@
-   ![213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c (1)](https://github.com/Linnovel/Linnovel/assets/117125597/118a68f3-d70a-4725-9258-33f2343f7167)
-- 👋Hi. I'm Luis Linares a passionate developer and former student from @4GeeksAcademy. I want to collaborate with anybody who is willing to keep learning and working hard to be the best.
-- 📫  [Follow me on Twitter] (https://twitter.com/Linnovel_Dev)
-- 📫 Email: luislinnovel@gmail.com
-- 📫 https://www.linkedin.com/in/luis-linares-77853b227/
+<h1 align="center">Hi 👋, I'm Luis Linares but can call me Linnovel</h1>
+<h3 align="center">Graphic Designer and Fullstack Developer</h3>
+<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd282MXh4ZDIzcWJnd2l2ZzJuemNtOGltZDBuZzhybnptdHl3MXQ4YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-  languages and tools:
-  
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352532302d2532334533344632362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://github.com/Linnovel/Linnovel/assets/117125597/34bb3ed8-e93a-46b7-a429-c5c5f6bbf27c)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f637373332532302d2532333135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465](https://github.com/Linnovel/Linnovel/assets/117125597/4afd8493-3f8b-4949-bca2-3c7d7705ec7f)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742532302d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465](https://github.com/Linnovel/Linnovel/assets/117125597/314b0194-ab6d-45dd-a196-844e8dcfeea2)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742532302d2532333230323332612e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642](https://github.com/Linnovel/Linnovel/assets/117125597/4bccc72e-3f2f-4c23-bf20-e86df8e3cc07)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532334637444631452e7376673f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b](https://github.com/Linnovel/Linnovel/assets/117125597/4bf7c9c7-a25b-428c-b7be-20be5c4cc7b2)
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d2532333134333534432e7376673f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465](https://github.com/Linnovel/Linnovel/assets/117125597/dfac8faa-bf3a-411d-b47d-65186ef32ba0)
+<p align="left"> <a href="https://twitter.com/linnovel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/linnovel_dev?logo=twitter&style=for-the-badge" alt="linnovel_dev" /></a> </p>
 
-🙌 I'm currently open to: Absolutely anything :) 
+- 🌱 I’m currently learning **Typescript. Tailwind. React native. Node js**
+
+- 📝 I regularly write articles on [https://medium.com/@luislinnovel](https://medium.com/@luislinnovel)
+
+- 💬 Ask me about **To colaboratte**
+
+- 📫 How to reach me **luislinnovel@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/linnovel_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="linnovel_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis-linares-77853b227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis-linares-77853b227" height="30" width="40" /></a>
+<a href="https://instagram.com/linnodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="linnodev" height="30" width="40" /></a>
+<a href="https://medium.com/@luislinnovel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@luislinnovel" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linnovel&show_icons=true&locale=en" alt="linnovel" /></p>
 
 
 
