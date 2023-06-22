@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luis Linares but can call me Linnovel</h1>
+<h1 align="center">Hi 👋, I'm Luis Linares but you can call me Linnovel</h1>
 <h3 align="center">Fullstack Developer from @4GeeksAcademy</h3>
 
 
@@ -8,7 +8,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@luislinnovel](https://medium.com/@luislinnovel)
 
-- 💬 Ask me about **To colaboratte**
+- 💬 Ask me about **To collaborate**
 
 - 📫 How to reach me **luislinnovel@gmail.com**
 
