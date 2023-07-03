@@ -31,7 +31,7 @@ About me. I like to lift heavy stuff and Croosfit sometimes
 ![26c840dd873a7d9c887bbd66f25e4608--how-to-lose-weight-reduce-weight](https://github.com/Linnovel/Linnovel/assets/117125597/549afa1b-ab14-439c-90db-039a06af72a3)
 
 But where is your Work? Where is YOUR EXPERIENCE?? Ehmmm. I don't have one 
-<iframe src="https://giphy.com/embed/lz6T3bKdcKD60R9rPT" width="480" height="285" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Santa-Monica-Studio-god-of-war-ragnarok-gowr-lz6T3bKdcKD60R9rPT">via GIPHY</a></p>
+![giphy](https://github.com/Linnovel/Linnovel/assets/117125597/b2a4a32a-7908-41f9-90e7-a3aa5fe5487c)
 
 
 
