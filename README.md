@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luislinnovel@gmail.com**
 
-- 📄 Know about my experiences [Im a graphic designer that loves to code. Now Im a full frontend developer!](Im a graphic designer that loves to code. Now Im a full frontend developer!)
+- 📄 Know about my experiences [Im a web designer that loves to code. Now Im a full frontend developer!]
 
 - ⚡ Fun fact **I like bread with chocolate. I know im disgusting :(**
 
