@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I'm Luis Linares but you can call me Linnovel</h1>
+<h1 align="center">Hi there 👋 I'm Luis Linares. Let´s Work together</h1>
 <h3 align="center">A passionate frontend developer from LATAM</h3>
 
 <p align="left"> <a href="https://twitter.com/linnovel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/linnovel_dev?logo=twitter&style=for-the-badge" alt="linnovel_dev" /></a> </p>
