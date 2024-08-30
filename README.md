@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/linnovel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/linnovel_dev?logo=twitter&style=for-the-badge" alt="linnovel_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js.**
+- 🌱 I’m currently learning **Node.js, expres.js and Nest.js**
 
 - 📝 I regularly write articles on [https://medium.com/@luislinnovel](https://medium.com/@luislinnovel)
 
-- 💬 Ask me about **React | React Native | GSAP**
+- 💬 Ask me about **React | React Native | **
 
 - 📫 How to reach me **luislinnovel@gmail.com**
 
