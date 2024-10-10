@@ -7,8 +7,6 @@
 
 - 📝 I regularly write articles on [https://medium.com/@luislinnovel](https://medium.com/@luislinnovel)
 
-- 💬 Ask me about **React | React Native | **
-
 - 📫 How to reach me **luislinnovel@gmail.com**
 
 - 📄 Know about my experiences [Im a web designer that loves to code. Now Im a full frontend developer!]
