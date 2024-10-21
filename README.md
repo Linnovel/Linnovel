@@ -9,9 +9,9 @@
 
 - 📫 How to reach me **luislinnovel@gmail.com**
 
-- 📄 Know about my experiences [SS UX/UI Desginer and frontend developer]
+- 📄 Know about my experiences [SSR UX/UI Desginer and junior frontend developer]
 
-- ⚡ Fun fact **I like bread with chocolate. I know im disgusting :(**
+- ⚡ Fun fact **I like bread with chocolate. I know I'm disgusting :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
