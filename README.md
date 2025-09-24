@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋 I'm Luis Linares. Let´s Work together</h1>
-<h3 align="center">Frontend developer and UXUI Designer</h3>
+<h1 align="center">Luis Linares | Product-Focused Frontend Engineer</h1>
+<h3 align="center">React/Next.js Specialist & UX/UI Architect</h3>
 
 <p align="left"> <a href="https://twitter.com/linnovel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/linnovel_dev?logo=twitter&style=for-the-badge" alt="linnovel_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, expres.js, Nest.js, Gsap**
+- 🌱 I’m currently learning **Node.js, expres.js, for a Fullstack**
 
 - 📝 I regularly write articles on [https://medium.com/@luislinnovel](https://medium.com/@luislinnovel)
 
 - 📫 How to reach me **luislinnovel@gmail.com**
 
-- 📄 Know about my experiences [SSR UX/UI Desginer and junior frontend developer]
+- 🔗 Portfolio & Case Studies: [https://lino-portfolio.vercel.app](https://lino-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I like bread with chocolate. I know I'm disgusting :(**
 
@@ -21,12 +21,12 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img align="center" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" />
-<img align="center" src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img align="center" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/> 
 <img align="center" src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
+<img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white"/> 
+<img align="center" src="https://img.shields.io/badge/React%20Router-CA4245.svg?style=for-the-badge&logo=React-Router&logoColor=white"/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=linnovel&show_icons=true&locale=en&layout=compact" alt="linnovel" /></p>
