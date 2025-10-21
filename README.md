@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/linnovel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/linnovel_dev?logo=twitter&style=for-the-badge" alt="linnovel_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js, expres.js, for a Fullstack**
+- 🌱 I’m currently learning **Node.js, express.js Python and Django, for a Fullstack**
 
 - 📝 I regularly write articles on [https://medium.com/@luislinnovel](https://medium.com/@luislinnovel)
 
