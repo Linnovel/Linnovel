@@ -18,7 +18,7 @@ Actualmente trabajo creando soluciones eficientes donde la creatividad técnica 
 - 📝 **Escribo sobre código y diseño en:** [Medium (@luislinnovel)](https://medium.com/@luislinnovel)
 - 🔗 **Portafolio y Casos de Estudio:** [lino-portfolio.vercel.app](https://lino-portfolio.vercel.app/)
 - 📫 **Contáctame:** luislinnovel@gmail.com
-- ⚡ **Dato curioso:** Me gusta el pan con chocolate. Sé que es un gusto particular, pero no me arrepiento de nada. 🥖🍫
+- ⚡ **Dato curioso:** Me gusta el pan con chocolate.
 
 ---
 
