@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mí
 
-Soy un Ingeniero de Software Frontend con más de 3 años de experiencia en desarrollo y más de 4 años de background en Diseño UX/UI. Mi enfoque es crear experiencias digitales que no solo sean funcionalmente robustas y escalables, sino que destaquen por su fluidez, accesibilidad y alto sentido estético. 
+Soy un Ingeniero de Software Frontend con más de 3 años de experiencia en desarrollo y más de 5 años de background en Diseño UX/UI. Mi enfoque es crear experiencias digitales que no solo sean funcionalmente robustas y escalables, sino que destaquen por su fluidez, accesibilidad y alto sentido estético. 
 
 Actualmente trabajo creando soluciones eficientes donde la creatividad técnica y el diseño centrado en el usuario se encuentran.
 
