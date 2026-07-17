@@ -1,5 +1,5 @@
 <h1 align="center">Luis Linares | Product-Focused Frontend Engineer</h1>
-<h3 align="center">React/Next.js Specialist & UX/UI Architect</h3>
+<h3 align="center">Design Engineer</h3>
 
 <p align="center"> 
   <a href="https://twitter.com/linnovel_dev" target="blank"><img src="https://img.shields.io/twitter/follow/linnovel_dev?logo=twitter&style=for-the-badge" alt="linnovel_dev" /></a> 
